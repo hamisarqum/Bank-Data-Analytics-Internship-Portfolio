@@ -1,7 +1,7 @@
-# HBL Microfinance Bank: Data Analytics & Automation Portfolio 🏦
+# Bank: Data Analytics & Automation Portfolio 🏦
 
 ### 📌 Project Overview
-This repository showcases the technical solutions and analytical workflows developed during my Data Analytics internship at **HBL Microfinance Bank** (July 2025 – September 2025). The core focus of this role was leveraging **Python** and **SQL** to automate high-volume regulatory data processing and optimize financial recovery performance.
+This repository showcases the technical solutions and analytical workflows developed during my Data Analytics internship at ** Microfinance Bank** (July 2025 – September 2025). The core focus of this role was leveraging **Python** and **SQL** to automate high-volume regulatory data processing and optimize financial recovery performance.
 
 ---
 
